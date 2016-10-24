@@ -23,5 +23,18 @@ Scene statistics
 ===
 
 ```
+Mesh: rabbit_eye.L
+  Polygons: 224
+  Textures:
+
+Mesh: rabbit_eye.R
+  Polygons: 224
+  Textures:
+
+Mesh: rabbit_mesh
+  Polygons: 3765
+  Textures:
+    Image: albedo 1024x1024
+
 ```
 
